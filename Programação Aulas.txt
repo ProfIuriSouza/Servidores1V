@@ -1,0 +1,17 @@
+02/05/2023
+
+INFO BÁSICA
+	definir horários para info 3M
+	Aulas: Atividades em excel - planilha física e média de notas (+ formatação)
+
+Servidores
+	Adaptadpres de rede no VirtualBox (video-aula)
+	Comandos báscios em Linux (preparar roteiro)
+	Tarefa - Cap 2 e 3 do Red Hat Academy
+	Slides como material de estudo
+	Buscar apostila/livro texto de referência para Linux
+
+Interface de usuário
+	Propor atividade avaliativa
+		Estimular o desenvolvimento e uso de ferramentas como
+		figma e bootstrap
